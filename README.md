@@ -27,5 +27,9 @@ Report your problem along with your name to [this person](https://t.me/Nicebroad
 
 
 Thanks to the Real [developer](https://t.me/Nicebroadmin)! my dear bro❤️❤️
-# Alternative by
-.[saro](httpps://t.me/Cosmici) 🙈😍😍
+
+
+
+# Alternative
+
+you can say me any Alternative :[Saro](https://t.me/Cosmici)
