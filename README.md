@@ -5,8 +5,8 @@
 ### Click Below Image to Deploy
 [![Deploy](https://telegra.ph/file/b27a1b2dc4b476efd3098.jpg)](https://heroku.com/deploy?template=https://github.com/sarobot/welcome-bot)
 
-## DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarobot/welcome-bot)
+
+
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
@@ -22,9 +22,10 @@ You can also join our Group : [support our group](https://t.me/lntechnicalgroup)
 # Report error
 Report your problem along with your name to [this person](https://t.me/Nicebroadmin👨🏻‍💻) 
 
-# Credits
+# Credit
 
 
 
 Thanks to the Real [developer](https://t.me/Nicebroadmin)! my dear bro❤️❤️
-# Alternative my saro🙈😍😍
+# Alternative by (
+htpp://t.me/Cosmici) 🙈😍😍
