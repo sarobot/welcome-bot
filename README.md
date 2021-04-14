@@ -10,14 +10,14 @@
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [dorababy](http://t.me/Grpwc_bot) 
+Can be found on telegram as [welcome](http://t.me/Grpwc_bot) 
 
 
 # Channel
 You can also join our Channel : [BoT developer](https://t.me/lntechnical) 
 
 # Group
-You can also join our Group : [Tamil Support](https://t.me/lntechnicalgroup) 🤝🏻
+You can also join our Group : [Bot developer](https://t.me/lntechnicalgroup) 🤝🏻
 
 # Report error
 Report your problem along with your name to [this person](https://t.me/Nicebroadmin👨🏻‍💻) 
@@ -27,3 +27,7 @@ Report your problem along with your name to [this person](https://t.me/Nicebroad
 This repo is just a custom fork of [HarukaAya](https://github.com/sarobot/dorababy) 💃🏻
 
 Thanks to the Real [developer](https://t.me/Nicebroadmin)! my dear bro❤️❤️
+ 
+# Alternative
+
+You can ask me any alternative : [Saro@Cosmici](https://t.me/TamilBotZ)
