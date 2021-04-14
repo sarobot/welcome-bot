@@ -17,7 +17,7 @@ Can be found on telegram as [dorababy](http://t.me/Grpwc_bot)
 You can also join our Channel : [BoT developer](https://t.me/lntechnical) 
 
 # Group
-You can also join our Group : [Tamil Support](https://t.me/lntechnicalgroup) 🤝🏻
+You can also join our Group : [support our group](https://t.me/lntechnicalgroup) 🤝🏻
 
 # Report error
 Report your problem along with your name to [this person](https://t.me/Nicebroadmin👨🏻‍💻) 
