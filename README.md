@@ -30,4 +30,4 @@ Thanks to the Real [developer](https://t.me/Nicebroadmin)! my dear bro❤️❤�
  
 # Alternative
 
-You can ask me any alternative : [Saro](https://t.me/@Cosmici)
+You can ask me any alternative : [Saro](https://t.me/Cosmici)
