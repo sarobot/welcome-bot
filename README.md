@@ -28,4 +28,4 @@ Report your problem along with your name to [this person](https://t.me/Nicebroad
 
 Thanks to the Real [developer](https://t.me/Nicebroadmin)! my dear bro❤️❤️
 # Alternative by (
-htpp://t.me/Cosmici) 🙈😍😍
+[Saro](httpps://t.me/Cosmici) 🙈😍😍
