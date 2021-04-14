@@ -24,6 +24,6 @@ Report your problem along with your name to [this person](https://t.me/Nicebroad
 
 # Credits
 
-This repo is just a custom fork of [HarukaAya](https://github.com/sarobot/dorababy) 💃🏻
+
 
 Thanks to the Real [developer](https://t.me/Nicebroadmin)! my dear bro❤️❤️
